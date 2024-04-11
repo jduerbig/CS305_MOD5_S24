@@ -5,6 +5,8 @@
 #### This is a project that involves sharing and collaberating with partners via GITHUB
 #### I hope i get a good grade!
 
+##### COLTON IS ADDING A CRAZY NEW MODULE TO THE PROJECT THAT WILL MAKE IT 1000x BETTER
+
 
 MIT License
 Copyright (c) 2024 John Duerbig
